@@ -1,7 +1,7 @@
 ### Hi there, My name is Justin and welcome to my GitHub Profile. 👋
 
 - 🔭 I’m currently working on finishing my BAS in Computing and Information Sciences at the University of North Florida
-- 🌱 I’m currently learning AsP.NET MVC design and deployment.
+- 🌱 I’m currently learning ASP.NET MVC design and deployment.
 - ⚡ Fun fact: I am currently building multiple projects at the same time using what I am learning in differenet areas. 
 Check out my [Paragon Test In C# Alogithms](https://github.com/DyneXvX/Paragon)
 or
