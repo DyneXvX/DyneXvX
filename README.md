@@ -2,10 +2,7 @@
 
 - 🔭 I’m currently working on finishing my BAS in Computing and Information Sciences at the University of North Florida
 - 🌱 I’m currently learning ASP.NET MVC design and deployment.
-- ⚡ Fun fact: I am currently building multiple projects at the same time using what I am learning in differenet areas. 
-Check out my [Paragon Test In C# Alogithms](https://github.com/DyneXvX/Paragon)
-or
-[Anime Web Applicaton](https://github.com/DyneXvX/Anime-Studio)
+
 
 
 ![DyneXvX's github stats](https://github-readme-stats.vercel.app/api?username=DyneXvX&show_icons=true&theme=tokyonight)
@@ -29,5 +26,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⚡ Fun fact: I am currently building multiple projects at the same time using what I am learning in differenet areas. 
+Check out my [Paragon Test In C# Alogithms](https://github.com/DyneXvX/Paragon)
+or
+[Anime Web Applicaton](https://github.com/DyneXvX/Anime-Studio)
 
 -->
