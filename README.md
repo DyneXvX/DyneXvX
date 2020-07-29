@@ -10,7 +10,7 @@ or
 
 ![DyneXvX's github stats](https://github-readme-stats.vercel.app/api?username=DyneXvX&show_icons=true&theme=tokyonight)
 
-*Language Notes: Keep in mind this is a metric of what I am using on Github at any given time. This should be used as a reference and not a I only know this...*
+*Language Notes: Keep in mind this is a metric of what I am using on Github at any given time. This should be used as a reference only*
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DyneXvX&show_icons=true&theme=tokyonight)](https://github.com/DyneXvX/github-readme-stats)
