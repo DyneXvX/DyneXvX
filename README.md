@@ -1,11 +1,11 @@
 ### Hi there, My name is Justin and welcome to my GitHub Profile. 👋
 
 <a href="https://www.youtube.com/channel/UC66vCWqoBQUACB07zVaMcsA">
-    <img src="images\youtube.jpg" style="Width: 10%" />
+    <img src="https://github.com/DyneXvX/DyneXvX/master/images/youtube.jpg" style="Width: 10%" />
 </a>
 <br/>
 <a href="https://steamcommunity.com/profiles/76561198250654632/myworkshopfiles/?appid=431960">
-<img src="images\steam.jpg" style="Width: 20%" />
+<img src="https://github.com/DyneXvX/DyneXvX/master/images/steam.jpg" style="Width: 20%" />
 </a>
 
 ---------------------------------------------------------
