@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on finishing my BAS in Computing and Information Sciences at the University of North Florida
 - 🌱 I’m currently learning ASP.NET MVC design and deployment.
-- ⚡ Fun fact: I create wallpapers using "Steam Wallpaper Engine". Feel free to check them out on my [youtube channel](https://www.youtube.com/channel/UC66vCWqoBQUACB07zVaMcsA) or my [steamwork shop](https://steamcommunity.com/profiles/76561198250654632/myworkshopfiles/?appid=431960). They are more fun then anything else, plus it gives me a chance to do something different. 
+- ⚡ Fun fact: I create wallpapers using "Steam Wallpaper Engine". Feel free to check them out on my <a href="https://www.youtube.com/channel/UC66vCWqoBQUACB07zVaMcsA" target="_blank">YouTube channel</a> or my <a href="https://steamcommunity.com/profiles/76561198250654632/myworkshopfiles/?appid=431960" target="_blank">steam workshop</a>. They are more fun then anything else, plus it gives me a chance to do something different. 
 
 
 ![DyneXvX's github stats](https://github-readme-stats.vercel.app/api?username=DyneXvX&show_icons=true&theme=tokyonight)
