@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on finishing my BAS in Computing and Information Sciences at the University of North Florida
 - 🌱 I’m learning pretty much everything I can get my hands on however, I am working with ASP.NET MVC design and deployment for school and a local non-profit in Northeast Florida.
 - ⚡ Fun fact: I create animated wallpapers using "Wallpaper Engine", and have started building a modification game to Doki Doki Literature Club using RenPy and Python. These little projects are more fun then anything else. 
-- 🥅 2021 Goals: I am finishing up my BAS this spring so I am taking a long look at applying to the UNF School of Computing Graduate program from my Master's.  
+- 🥅 2021 Goals: I am finishing up my BAS this spring so I am taking a long look at applying to the UNF School of Computing Graduate program for my Master's.  
 
 ### Connect with me on:
 
