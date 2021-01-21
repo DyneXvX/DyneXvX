@@ -3,13 +3,13 @@
 
 ---------------------------------------------------------
 - Bio:  Just a man trying to follow a dream of writing software and/or web applications. 
-        After being in management for over 10 years I decided it was my turn to follow my dreams and work on doing something that I really enjoyed. After helping so many people with their career goals I left it all behind, went back to school, and have been working hard ever sence. Code is more then computer language to me, it is my art form.
+        After being in management for over 10 years I decided it was my turn to follow my dreams and work on doing something that I really enjoyed. After helping so many people with their career goals I left it all behind, went back to school, and have been working hard ever sense. Code is more then computer language to me, it is my art form.
 ---------------------------------------------------------
 
 - 🔭 I’m currently working on finishing my BAS in Computing and Information Sciences at the University of North Florida
-- 🌱 I’m currently learning pretty much everything however, I am working with ASP.NET MVC design and deployment for school.
-- ⚡ Fun fact: I create animated wallpapers using "Wallpaper Engine".  They are more fun then anything else, plus it gives me a chance to do something different.
-- 🥅 2020 Goals: I spend most of my time coding on the back end for school. I really want to learn Visual Novels using python and renpy. Maybe make a Mod for DDLC, or take up Unity for a change. <--I enjoy learning can you tell? LoL!  
+- 🌱 I’m learning pretty much everything I can get my hands on however, I am working with ASP.NET MVC design and deployment for school and a local non-profit in Northeast Florida.
+- ⚡ Fun fact: I create animated wallpapers using "Wallpaper Engine", and have started building a modification game to Doki Doki Literature Club using RenPy and Python. These little projects are more fun then anything else. 
+- 🥅 2021 Goals: I am finishing up my BAS this spring so I am taking a long look at applying to the UNF School of Computing Graduate program from my Master's.  
 
 ### Connect with me on:
 
@@ -39,7 +39,7 @@ src="https://www.renpy.org/static/index-logo.png">][Ren'Py]
 
 ![DyneXvX's github stats](https://github-readme-stats.vercel.app/api?username=DyneXvX&show_icons=true&theme=tokyonight)
 
-*Language Notes: Keep in mind this is a metric of what I am using on Github at any given time. This should be used as a reference only...*
+*Language Notes: Keep in mind this is a metric of what I am using on Github at any given time. This should be used as a reference only... ("A good developer can code in a specific language, but a great developer can write the same code in 3 languages." A great professor told me that and I have been doing what I can to instill it in my studies. )*
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DyneXvX&show_icons=true&theme=tokyonight)](https://github.com/DyneXvX/github-readme-stats)
