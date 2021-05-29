@@ -15,8 +15,7 @@
 
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="steam | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="reddit | Reddit" width="22px"
-src="https://img.icons8.com/windows/64/000000/reddit.png"/>][Reddit]
+[<img align="left" alt="reddit | Reddit" width="22px"src="https://img.icons8.com/windows/64/000000/reddit.png"/>][Reddit]
 
 
 <br />
@@ -31,8 +30,7 @@ src="https://img.icons8.com/windows/64/000000/reddit.png"/>][Reddit]
 
 [<img align="left" alt="Python" width="26px"  src="https://img.icons8.com/color/48/000000/python.png"/>][Python]
 
-[<img align="left" alt="Renpy" width="26px"
-src="https://www.renpy.org/static/index-logo.png">][Ren'Py]
+[<img align="left" alt="Renpy" width="26px"src="https://www.renpy.org/static/index-logo.png">][Ren'Py]
 
 <br />
 <br />
