@@ -32,14 +32,14 @@
 ### My tools for the trade:
 
 [<img align="left" alt="Wallpaper Engine" width="26px" src="https://img.icons8.com/nolan/64/wallpaper-engine.png"/>][wallpaper]
-
 [<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>][Visual Studio]
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
-
 [<img align="left" alt="Python" width="26px"  src="https://img.icons8.com/color/48/000000/python.png"/>][Python]
-
 [<img align="left" alt="Renpy" width="26px" src="https://www.renpy.org/static/index-logo.png">][Ren'Py]
+[<img align="left" alt="WebStorm" width="26px" src="https://logonoid.com/images/webstorm-logo.png">][WebStorm]
+[<img align="left" alt="PhpStorm" width="26px" src="https://logonoid.com/images/phpstorm-logo.png">][PhpStorm]
+
+
 
 <br />
 <br />
@@ -68,3 +68,7 @@ languages." A great professor told me that, and I have been doing what I can to 
 [Ren'Py]: https://www.renpy.org/
 
 [Python]: https://www.python.org/
+
+[WebStorm]: https://www.jetbrains.com/webstorm
+
+[PhpStorm]: https://www.jetbrains.com/phpstorm/
